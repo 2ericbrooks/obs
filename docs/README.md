@@ -1,7 +1,7 @@
 # obs
 
 ## Posts
-[./docs/Untitled.md][def] []
+[Untitled](Untitled.md)
 
 [def]: Untitled.md
 
